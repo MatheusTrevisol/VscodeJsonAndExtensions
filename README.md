@@ -16,6 +16,7 @@ VSCode config JSON and Extensions
   - Prisma
   - Symbols
   - Tailwind CSS IntelliSense
+  - vscode-styled-components
   
 /*JSON*/
 
