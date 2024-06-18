@@ -20,6 +20,13 @@ VSCode config JSON and Extensions
   
 /*JSON*/
 
+"[typescriptreact]": {
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit"
+  }
+},
 {
   "emmet.syntaxProfiles": {
     "javascript": "jsx"
