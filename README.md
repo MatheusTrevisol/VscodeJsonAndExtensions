@@ -4,19 +4,14 @@ VSCode config JSON and Extensions
 
 /*Extensions*/
 
-  - Brazilian Portuguese - Code Spell Checker (identificar pt-br)
+  - Eslint
   - Code Spell Checker - Check de palavras inglês - correções automáticas
   - Color Highlight
-  - Fluent Icons
   - HTML CSS Support
-  - JavaSscript (ES6) code snippets
   - Live Server
   - Material Icon Theme
-  - Prettier Code Formatter
-  - Prisma
-  - Symbols
+  - Prettier ESLint
   - Tailwind CSS IntelliSense
-  - vscode-styled-components
   
 /*JSON*/
 
