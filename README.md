@@ -12,6 +12,14 @@ VSCode config JSON and Extensions
   - Material Icon Theme
   - Prettier ESLint
   - Tailwind CSS IntelliSense
+  - GraphQL Syntax Highlight
+  - IntelliPHP
+  - Laravel
+  - Laravel Blade Formatter
+  - Laravel Extra Intellisense
+  - PHP
+  - PHP Intelephense
+  - REST Client
   
 /*JSON*/
 
